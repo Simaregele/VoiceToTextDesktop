@@ -34,7 +34,7 @@ class TrayApp(QApplication):
     def create_tray_menu(self):
         logging.debug("Создание меню трея")
         menu = QMenu()
-        exit_action = menu.addAction("Выход")
+        exit_action = menu.addAction("Exit")
         exit_action.triggered.connect(self.quit)
         self.tray_icon.setContextMenu(menu)
         logging.debug("Меню трея создано")
