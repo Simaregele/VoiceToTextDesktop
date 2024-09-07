@@ -15,7 +15,7 @@
 2. Перейдите в директорию, где вы хотите разместить проект.
 3. Выполните команду:
    ```
-   git clone https://github.com/your-username/VoiceToTextDesktop.git
+   git clone https://github.com/Simaregele/VoiceToTextDesktop.git
    ```
 4. Перейдите в директорию проекта:
    ```
