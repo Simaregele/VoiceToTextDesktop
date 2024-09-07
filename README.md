@@ -26,7 +26,7 @@ Important: To open the Windows clipboard to view the saved text, use the key com
 2. Navigate to the directory where you want to place the project.
 3. Execute the command:
    ```
-   git clone https://github.com/your-username/VoiceToTextDesktop.git
+   git clone https://github.com/Simaregele/VoiceToTextDesktop.git
    ```
 4. Navigate to the project directory:
    ```
